@@ -1,0 +1,18 @@
+html {
+    background-color: grey;  
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.aboutText{
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: red;
+}
